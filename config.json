@@ -1,0 +1,10 @@
+{
+    "token": "bot tokeni",
+    "mysqlHost": "localhost",
+    "mysqlUser": "root",
+    "clientId": "botun idsi",
+    "guildId": "sunucu idsi",
+    "mysqlPassword": "",
+    "mysqlDatabase": "license"
+  }
+  
